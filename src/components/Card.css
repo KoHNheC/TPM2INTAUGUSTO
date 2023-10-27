@@ -1,0 +1,20 @@
+.details {
+    font-size: 0.65rem;
+  }
+  
+  .details a {
+    font-size: 0.65rem;
+  }
+  
+  .alive {
+    color: #00ff00; /* Cambia este valor al color que desees */
+  }
+  
+  .dead {
+    color: #ff0000; /* Cambia este valor al color que desees */
+  }
+  
+  .unknown {
+    color: #008cff; /* Cambia este valor al color que desees */
+  }
+  
